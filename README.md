@@ -21,3 +21,8 @@ Para conferir qualidade de código:
 ```console
 flake8
 ```
+
+Tópicos a serem abordados:
+1. Git
+2. Virtualenv
+3. Pip
