@@ -13,7 +13,7 @@ iniconfig==1.1.1
 pytest==6.2.2
 
 #Converage
-coverage==5.5
+coverage==7.2.6
 pytest-cov==2.11.1
 
 -r requirements.txt
