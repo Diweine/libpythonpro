@@ -10,7 +10,7 @@ pluggy==0.13.1
 toml==0.10.2
 attrs==20.3.0
 iniconfig==1.1.1
-pytest==6.2.2
+pytest==7.3.2
 
 #Converage
 coverage==5.5
